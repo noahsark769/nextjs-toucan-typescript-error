@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-toucan-typescript-error",
+  "version": "1.0.0",
+  "description": "Repo demonstrating a typescript error with Toucan",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "tsc": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "toucan-js": "3.2.3",
+    "typescript": "^5.2.2",
+    "@cloudflare/workers-types": "^4.20240129.0"
+  }
+}
